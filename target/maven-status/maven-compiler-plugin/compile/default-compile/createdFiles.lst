@@ -1,0 +1,4 @@
+org\accenture\acciotov\kafka\transformer\ToString$Value.class
+org\accenture\acciotov\kafka\transformer\CustomKey.class
+org\accenture\acciotov\kafka\transformer\ToString.class
+org\accenture\acciotov\kafka\transformer\ToString$Key.class
